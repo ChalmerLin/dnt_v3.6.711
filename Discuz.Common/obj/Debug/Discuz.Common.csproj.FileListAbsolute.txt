@@ -1,0 +1,6 @@
+C:\Users\szhf\Desktop\Discuz!NT\dnt_3.6.711_sqlserver_src\source_files\Discuz.Common\bin\Debug\Discuz.Common.dll
+C:\Users\szhf\Desktop\Discuz!NT\dnt_3.6.711_sqlserver_src\source_files\Discuz.Common\bin\Debug\Discuz.Common.pdb
+C:\Users\szhf\Desktop\Discuz!NT\dnt_3.6.711_sqlserver_src\source_files\Discuz.Common\bin\Debug\NVelocity.dll
+C:\Users\szhf\Desktop\Discuz!NT\dnt_3.6.711_sqlserver_src\source_files\Discuz.Common\obj\Debug\Discuz.Common.csprojResolveAssemblyReference.cache
+C:\Users\szhf\Desktop\Discuz!NT\dnt_3.6.711_sqlserver_src\source_files\Discuz.Common\obj\Debug\Discuz.Common.dll
+C:\Users\szhf\Desktop\Discuz!NT\dnt_3.6.711_sqlserver_src\source_files\Discuz.Common\obj\Debug\Discuz.Common.pdb

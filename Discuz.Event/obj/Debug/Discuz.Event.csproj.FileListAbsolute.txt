@@ -1,0 +1,4 @@
+C:\Users\szhf\Desktop\Discuz!NT\dnt_3.6.711_sqlserver_src\source_files\Discuz.Web\bin\Discuz.Event.dll
+C:\Users\szhf\Desktop\Discuz!NT\dnt_3.6.711_sqlserver_src\source_files\Discuz.Web\bin\Discuz.Event.pdb
+C:\Users\szhf\Desktop\Discuz!NT\dnt_3.6.711_sqlserver_src\source_files\Discuz.Event\obj\Debug\Discuz.Event.dll
+C:\Users\szhf\Desktop\Discuz!NT\dnt_3.6.711_sqlserver_src\source_files\Discuz.Event\obj\Debug\Discuz.Event.pdb

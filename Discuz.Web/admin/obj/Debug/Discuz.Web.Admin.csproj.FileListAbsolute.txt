@@ -1,0 +1,5 @@
+C:\Users\szhf\Desktop\Discuz!NT\dnt_3.6.711_sqlserver_src\source_files\Discuz.Web\bin\Discuz.Web.Admin.dll
+C:\Users\szhf\Desktop\Discuz!NT\dnt_3.6.711_sqlserver_src\source_files\Discuz.Web\bin\Discuz.Web.Admin.pdb
+C:\Users\szhf\Desktop\Discuz!NT\dnt_3.6.711_sqlserver_src\source_files\Discuz.Web\admin\obj\Debug\Discuz.Web.Admin.csprojResolveAssemblyReference.cache
+C:\Users\szhf\Desktop\Discuz!NT\dnt_3.6.711_sqlserver_src\source_files\Discuz.Web\admin\obj\Debug\Discuz.Web.Admin.dll
+C:\Users\szhf\Desktop\Discuz!NT\dnt_3.6.711_sqlserver_src\source_files\Discuz.Web\admin\obj\Debug\Discuz.Web.Admin.pdb

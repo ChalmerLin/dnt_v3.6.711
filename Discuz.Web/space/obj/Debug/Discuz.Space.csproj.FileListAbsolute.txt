@@ -1,0 +1,5 @@
+C:\Users\szhf\Desktop\Discuz!NT\dnt_3.6.711_sqlserver_src\source_files\Discuz.Web\bin\Discuz.Space.dll
+C:\Users\szhf\Desktop\Discuz!NT\dnt_3.6.711_sqlserver_src\source_files\Discuz.Web\bin\Discuz.Space.pdb
+C:\Users\szhf\Desktop\Discuz!NT\dnt_3.6.711_sqlserver_src\source_files\Discuz.Web\space\obj\Debug\Discuz.Space.csprojResolveAssemblyReference.cache
+C:\Users\szhf\Desktop\Discuz!NT\dnt_3.6.711_sqlserver_src\source_files\Discuz.Web\space\obj\Debug\Discuz.Space.dll
+C:\Users\szhf\Desktop\Discuz!NT\dnt_3.6.711_sqlserver_src\source_files\Discuz.Web\space\obj\Debug\Discuz.Space.pdb

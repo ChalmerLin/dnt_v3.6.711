@@ -1,0 +1,8 @@
+C:\Users\szhf\Desktop\Discuz!NT\dnt_3.6.711_sqlserver_src\source_files\Discuz.Config\bin\Debug\Discuz.Config.dll
+C:\Users\szhf\Desktop\Discuz!NT\dnt_3.6.711_sqlserver_src\source_files\Discuz.Config\bin\Debug\Discuz.Config.pdb
+C:\Users\szhf\Desktop\Discuz!NT\dnt_3.6.711_sqlserver_src\source_files\Discuz.Config\bin\Debug\Discuz.Common.dll
+C:\Users\szhf\Desktop\Discuz!NT\dnt_3.6.711_sqlserver_src\source_files\Discuz.Config\bin\Debug\Newtonsoft.Json.dll
+C:\Users\szhf\Desktop\Discuz!NT\dnt_3.6.711_sqlserver_src\source_files\Discuz.Config\bin\Debug\Discuz.Common.pdb
+C:\Users\szhf\Desktop\Discuz!NT\dnt_3.6.711_sqlserver_src\source_files\Discuz.Config\obj\Debug\Discuz.Config.csprojResolveAssemblyReference.cache
+C:\Users\szhf\Desktop\Discuz!NT\dnt_3.6.711_sqlserver_src\source_files\Discuz.Config\obj\Debug\Discuz.Config.dll
+C:\Users\szhf\Desktop\Discuz!NT\dnt_3.6.711_sqlserver_src\source_files\Discuz.Config\obj\Debug\Discuz.Config.pdb

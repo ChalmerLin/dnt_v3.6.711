@@ -1,0 +1,5 @@
+C:\Users\szhf\Desktop\Discuz!NT\dnt_3.6.711_sqlserver_src\source_files\Discuz.Web\bin\Discuz.Plugin.Preview.Jpg.dll
+C:\Users\szhf\Desktop\Discuz!NT\dnt_3.6.711_sqlserver_src\source_files\Discuz.Web\bin\Discuz.Plugin.Preview.Jpg.pdb
+C:\Users\szhf\Desktop\Discuz!NT\dnt_3.6.711_sqlserver_src\source_files\Discuz.Plugin.Preview.Jpg\obj\Debug\Discuz.Plugin.Preview.Jpg.csprojResolveAssemblyReference.cache
+C:\Users\szhf\Desktop\Discuz!NT\dnt_3.6.711_sqlserver_src\source_files\Discuz.Plugin.Preview.Jpg\obj\Debug\Discuz.Plugin.Preview.Jpg.dll
+C:\Users\szhf\Desktop\Discuz!NT\dnt_3.6.711_sqlserver_src\source_files\Discuz.Plugin.Preview.Jpg\obj\Debug\Discuz.Plugin.Preview.Jpg.pdb
